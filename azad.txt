@@ -1,0 +1,27 @@
+this is a git info that has all git commands <br>
+prifile creation
+repo setup
+readme.md (markdown)
+<br> line break
+
+git:
+git<>--version
+ls
+clear
+pwd
+
+to set up account in git FOR GitHub using the credentials:
+
+git<>config<>--global<>user.name<>"azadminedata-coder"
+git<>config<>--global<>user.email<>"azad.minedata@gmail.com"
+
+copy files from GitHub:
+git clone <htttps link>
+
+see hidden files:
+ls<>-force
+
+git status
+ define :
+untracked - new files that git doesn't yet track
+modified: changed
